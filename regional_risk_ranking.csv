@@ -1,0 +1,13 @@
+region,type,failure_type,failure_count,avg_torque,avg_tool_wear,rank_within_region,global_rank
+Asia-Pacific,L,"Heat Dissipation Failure",74,52.97,106.93,1,1
+Asia-Pacific,L,"Overstrain Failure",73,56.59,208.11,2,2
+Asia-Pacific,L,"Power Failure",59,47.68,100.36,3,3
+Europe,M,"Power Failure",31,48.18,98.35,1,4
+Europe,M,"Heat Dissipation Failure",30,51.65,113.57,2,5
+Asia-Pacific,L,"Tool Wear Failure",25,36.52,214.68,4,6
+Europe,M,"Tool Wear Failure",14,36.84,218.07,3,7
+"North americ",H,"Heat Dissipation Failure",8,55.14,87.75,1,8
+"North americ",H,"Tool Wear Failure",6,41.08,220.83,2,9
+"North americ",H,"Power Failure",5,54.96,141.80,3,10
+Europe,M,"Overstrain Failure",4,62.52,200.75,4,11
+"North americ",H,"Overstrain Failure",1,53.8,246.00,4,12

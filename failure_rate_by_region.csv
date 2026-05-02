@@ -1,0 +1,4 @@
+type,region,total_machines,total_failures,failure_rate_pct,avg_torque,avg_tool_wear
+L,Asia-Pacific,6000,235,3.92,40,108.38
+M,Europe,2997,83,2.77,40.01,107.27
+H,"North americ",1003,21,2.09,39.83,107.42

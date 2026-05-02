@@ -1,0 +1,19 @@
+machine_type,region,failure_type_A,failure_type_B,co_occurrence_count,avg_torque_A,avg_torque_B,avg_wear_A,avg_wear_B
+L,Asia-Pacific,"Heat Dissipation Failure","Overstrain Failure",5402,52.97,56.59,106.93,208.11
+L,Asia-Pacific,"Heat Dissipation Failure","Power Failure",4366,52.97,47.68,106.93,100.36
+L,Asia-Pacific,"Overstrain Failure","Power Failure",4307,56.59,47.68,208.11,100.36
+L,Asia-Pacific,"Heat Dissipation Failure","Tool Wear Failure",1850,52.97,36.52,106.93,214.68
+L,Asia-Pacific,"Overstrain Failure","Tool Wear Failure",1825,56.59,36.52,208.11,214.68
+L,Asia-Pacific,"Power Failure","Tool Wear Failure",1475,47.68,36.52,100.36,214.68
+M,Europe,"Heat Dissipation Failure","Power Failure",930,51.65,48.18,113.57,98.35
+M,Europe,"Power Failure","Tool Wear Failure",434,48.18,36.84,98.35,218.07
+M,Europe,"Heat Dissipation Failure","Tool Wear Failure",420,51.65,36.84,113.57,218.07
+M,Europe,"Overstrain Failure","Power Failure",124,62.53,48.18,200.75,98.35
+M,Europe,"Heat Dissipation Failure","Overstrain Failure",120,51.65,62.53,113.57,200.75
+M,Europe,"Overstrain Failure","Tool Wear Failure",56,62.53,36.84,200.75,218.07
+H,"North americ","Heat Dissipation Failure","Tool Wear Failure",48,55.14,41.08,87.75,220.83
+H,"North americ","Heat Dissipation Failure","Power Failure",40,55.14,54.96,87.75,141.80
+H,"North americ","Power Failure","Tool Wear Failure",30,54.96,41.08,141.80,220.83
+H,"North americ","Heat Dissipation Failure","Overstrain Failure",8,55.14,53.8,87.75,246.00
+H,"North americ","Overstrain Failure","Tool Wear Failure",6,53.8,41.08,246.00,220.83
+H,"North americ","Overstrain Failure","Power Failure",5,53.8,54.96,246.00,141.80

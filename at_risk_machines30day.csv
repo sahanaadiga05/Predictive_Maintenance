@@ -1,0 +1,501 @@
+product_id,type,region,air_temp_c,process_temp_c,torque,tool_wear,tool_wear_ratio,power_watts,target,failure_type,risk_flag
+L56851,L,Asia-Pacific,25.85,37.05,44.1,246,0.9723,6520.82,0,"No Failure",Critical
+L50043,L,Asia-Pacific,27.45,36.25,44.1,244,0.9644,6793.29,0,"No Failure",Critical
+L56850,L,Asia-Pacific,25.85,37.05,30.7,244,0.9644,5433.18,0,"No Failure",Critical
+L52578,L,Asia-Pacific,29.75,39.25,23.9,244,0.9644,4744.06,0,"No Failure",Critical
+L56849,L,Asia-Pacific,25.95,37.15,31.1,242,0.9565,5272.73,0,"No Failure",Critical
+L50042,L,Asia-Pacific,27.45,36.35,23,242,0.9565,4496.77,0,"No Failure",Critical
+M20257,M,Europe,29.65,39.15,42.7,241,0.9526,6331.69,0,"No Failure",Critical
+L50041,L,Asia-Pacific,27.55,36.35,43.6,240,0.9486,6752.79,0,"No Failure",Critical
+L56848,L,Asia-Pacific,25.95,37.15,35.2,240,0.9486,5967.85,0,"No Failure",Critical
+H30006,H,"North americ",24.35,36.35,27.9,240,0.9486,4873.36,0,"No Failure",Critical
+L52576,L,Asia-Pacific,29.65,39.25,39.7,239,0.9447,6331.68,0,"No Failure",Critical
+L47941,L,Asia-Pacific,23.55,34.65,34.6,238,0.9407,5963.96,0,"No Failure",Critical
+L52575,L,Asia-Pacific,29.65,39.25,36.8,237,0.9368,5892.29,0,"No Failure",Critical
+L47940,L,Asia-Pacific,23.55,34.65,39.4,236,0.9328,6209.57,0,"No Failure",Critical
+H32274,H,"North americ",27.45,36.25,49.2,235,0.9289,7537.69,0,"No Failure",Critical
+H30005,H,"North americ",24.35,36.15,41.7,235,0.9289,6659.39,0,"No Failure",Critical
+M24526,M,Europe,25.95,37.15,24,235,0.9289,4619.4,0,"No Failure",Critical
+L50039,L,Asia-Pacific,27.45,36.25,43.4,233,0.9209,7039.95,0,"No Failure",Critical
+L47770,L,Asia-Pacific,24.35,36.25,36.7,233,0.9209,5830.16,0,"No Failure",Critical
+M15619,M,Europe,23.55,34.65,36.3,233,0.9209,5842.64,0,"No Failure",Critical
+L56845,L,Asia-Pacific,26.05,37.15,33.3,233,0.9209,5614.34,0,"No Failure",Critical
+L51213,L,Asia-Pacific,28.95,37.65,27.1,233,0.9209,5028.77,0,"No Failure",Critical
+L52573,L,Asia-Pacific,29.65,39.15,42.6,232,0.917,6571.14,0,"No Failure",Critical
+L51825,L,Asia-Pacific,30.15,38.25,25.6,232,0.917,4643.19,0,"No Failure",Critical
+L51564,L,Asia-Pacific,28.65,36.45,42.7,231,0.913,6452.42,0,"No Failure",Critical
+L47938,L,Asia-Pacific,23.65,34.85,41.7,231,0.913,6537.12,0,"No Failure",Critical
+L47769,L,Asia-Pacific,24.45,36.25,40.2,231,0.913,6276.71,0,"No Failure",Critical
+M20858,M,Europe,27.25,37.05,36.9,231,0.913,6232.89,0,"No Failure",Critical
+L51824,L,Asia-Pacific,30.05,38.25,41.2,230,0.9091,6532.08,0,"No Failure",Critical
+L52572,L,Asia-Pacific,29.65,39.05,40.2,230,0.9091,6234.62,0,"No Failure",Critical
+L48516,L,Asia-Pacific,25.75,37.15,32.6,230,0.9091,5404.15,0,"No Failure",Critical
+L51211,L,Asia-Pacific,28.85,37.65,42.7,229,0.9051,6470.31,0,"No Failure",Critical
+H30587,H,"North americ",23.95,34.85,38.8,229,0.9051,6334.41,0,"No Failure",Critical
+M22546,M,Europe,27.55,38.55,36.9,229,0.9051,5811.7,0,"No Failure",Critical
+L47937,L,Asia-Pacific,23.75,34.95,33.7,229,0.9051,5487.68,0,"No Failure",Critical
+L47768,L,Asia-Pacific,24.45,36.25,33.4,229,0.9051,5694.16,0,"No Failure",Critical
+M17717,M,Europe,27.25,36.05,37.2,228,0.9012,5952.44,0,"No Failure",Critical
+M20857,M,Europe,27.35,37.05,34.6,228,0.9012,5692.21,0,"No Failure",Critical
+L52571,L,Asia-Pacific,29.55,39.05,34.4,228,0.9012,5662.91,0,"No Failure",Critical
+L54865,L,Asia-Pacific,27.65,38.55,43.5,227,0.8972,6363.77,0,"No Failure",Critical
+L51915,L,Asia-Pacific,30.05,38.35,42.5,227,0.8972,6871.71,0,"No Failure",Critical
+L47936,L,Asia-Pacific,23.65,34.85,40.4,227,0.8972,6701.39,0,"No Failure",Critical
+L51562,L,Asia-Pacific,28.65,36.35,39.6,227,0.8972,6324.03,0,"No Failure",Critical
+L48352,L,Asia-Pacific,23.95,34.95,36.6,227,0.8972,5542.15,0,"No Failure",Critical
+L51210,L,Asia-Pacific,28.85,37.65,17.3,227,0.8972,3433.99,0,"No Failure",Critical
+M24356,M,Europe,26.05,36.85,50.4,226,0.8933,7119.85,0,"No Failure",Critical
+L55208,L,Asia-Pacific,27.45,38.65,44.8,226,0.8933,7041.86,0,"No Failure",Critical
+M24522,M,Europe,25.95,36.95,30.9,226,0.8933,5080.27,0,"No Failure",Critical
+L52082,L,Asia-Pacific,30.45,39.15,29.3,226,0.8933,4958.35,0,"No Failure",Critical
+M20856,M,Europe,27.35,37.05,48.2,225,0.8893,6995.82,0,"No Failure",Critical
+L51561,L,Asia-Pacific,28.75,36.45,43.2,225,0.8893,6541.55,0,"No Failure",Critical
+M17361,M,Europe,25.95,35.75,42.7,225,0.8893,6599.98,0,"No Failure",Critical
+L53351,L,Asia-Pacific,27.65,37.45,42.2,225,0.8893,6257.55,0,"No Failure",Critical
+L51914,L,Asia-Pacific,30.05,38.35,39.2,225,0.8893,6186.26,0,"No Failure",Critical
+M18724,M,Europe,29.35,38.25,31.7,225,0.8893,5407.65,0,"No Failure",Critical
+L55207,L,Asia-Pacific,27.45,38.75,44.9,224,0.8854,6700.23,0,"No Failure",Critical
+L49514,L,Asia-Pacific,26.05,35.25,43.5,224,0.8854,6582.42,0,"No Failure",Critical
+M22544,M,Europe,27.55,38.65,42.4,224,0.8854,6247.25,0,"No Failure",Critical
+L53857,L,Asia-Pacific,28.35,37.55,38.5,224,0.8854,5785.5,0,"No Failure",Critical
+H30001,H,"North americ",24.45,36.35,33.1,224,0.8854,5625.68,0,"No Failure",Critical
+L51560,L,Asia-Pacific,28.75,36.45,49,223,0.8814,7235.09,0,"No Failure",Critical
+L49345,L,Asia-Pacific,26.35,35.95,47.8,223,0.8814,7388.27,0,"No Failure",Critical
+H34804,H,"North americ",29.65,39.15,47.2,223,0.8814,7330.13,0,"No Failure",Critical
+H32270,H,"North americ",27.35,36.15,45.2,223,0.8814,6962.73,0,"No Failure",Critical
+L51913,L,Asia-Pacific,30.15,38.45,44.6,223,0.8814,6931.02,0,"No Failure",Critical
+L55119,L,Asia-Pacific,27.65,38.65,43.4,223,0.8814,6440.03,0,"No Failure",Critical
+L48432,L,Asia-Pacific,24.35,35.65,41.5,223,0.8814,6662.22,0,"No Failure",Critical
+M20686,M,Europe,28.15,37.95,41.2,223,0.8814,6437.17,0,"No Failure",Critical
+M16193,M,Europe,25.85,37.15,35.4,223,0.8814,5775.63,0,"No Failure",Critical
+M19761,M,Europe,30.45,39.15,32.4,223,0.8814,5530.46,0,"No Failure",Critical
+L49680,L,Asia-Pacific,25.95,35.75,32.3,223,0.8814,5469.42,0,"No Failure",Critical
+L51043,L,Asia-Pacific,29.35,38.25,27,223,0.8814,4733.12,0,"No Failure",Critical
+L53175,L,Asia-Pacific,27.45,37.15,22.3,223,0.8814,4426.47,0,"No Failure",Critical
+M23058,M,Europe,26.15,37.55,48.9,222,0.8775,7035.97,0,"No Failure",Critical
+L49513,L,Asia-Pacific,26.05,35.35,45.2,222,0.8775,6839.67,0,"No Failure",Critical
+L53856,L,Asia-Pacific,28.35,37.55,44,222,0.8775,6556.71,0,"No Failure",Critical
+H30169,H,"North americ",23.65,34.95,43.7,222,0.8775,6827.77,0,"No Failure",Critical
+L54863,L,Asia-Pacific,27.55,38.55,43.5,222,0.8775,6942.29,0,"No Failure",Critical
+L50630,L,Asia-Pacific,28.45,37.45,43.4,222,0.8775,6844.53,0,"No Failure",Critical
+H30585,H,"North americ",23.85,34.95,41.4,222,0.8775,6576.8,0,"No Failure",Critical
+H33443,H,"North americ",28.85,37.75,29,222,0.8775,5098.91,0,"No Failure",Critical
+M16541,M,Europe,24.65,34.15,26,222,0.8775,4911.78,0,"No Failure",Critical
+L52569,L,Asia-Pacific,29.65,39.15,49.1,221,0.8735,7023.62,0,"No Failure",Critical
+H39075,H,"North americ",25.85,36.85,44.9,221,0.8735,6855.39,0,"No Failure",Critical
+H38909,H,"North americ",26.15,36.85,44.8,221,0.8735,6441.35,0,"No Failure",Critical
+L47682,L,Asia-Pacific,24.45,36.05,43.3,221,0.8735,6302.77,0,"No Failure",Critical
+H34055,H,"North americ",29.95,38.15,42.7,221,0.8735,6680.47,0,"No Failure",Critical
+L53005,L,Asia-Pacific,28.15,37.95,42,221,0.8735,6214.7,0,"No Failure",Critical
+L52080,L,Asia-Pacific,30.45,39.25,41.9,221,0.8735,6090.21,0,"No Failure",Critical
+M18052,M,Europe,26.95,36.05,39.8,221,0.8735,5910.01,0,"No Failure",Critical
+L53174,L,Asia-Pacific,27.45,37.25,39.2,221,0.8735,6600.86,0,"No Failure",Critical
+L51912,L,Asia-Pacific,30.15,38.55,38.5,221,0.8735,6204.8,0,"No Failure",Critical
+L50035,L,Asia-Pacific,27.35,36.15,37,221,0.8735,5920.44,0,"No Failure",Critical
+L49344,L,Asia-Pacific,26.45,36.05,36.7,221,0.8735,5918.55,0,"No Failure",Critical
+H37697,H,"North americ",25.75,37.45,33,221,0.8735,5581.04,0,"No Failure",Critical
+L55118,L,Asia-Pacific,27.65,38.55,31.3,221,0.8735,5509.86,0,"No Failure",Critical
+M22115,M,Europe,27.05,37.15,29.4,221,0.8735,5246.21,0,"No Failure",Critical
+L48512,L,Asia-Pacific,25.85,37.15,24,221,0.8735,4694.8,0,"No Failure",Critical
+M17886,M,Europe,27.25,36.35,21.9,221,0.8735,4329.87,0,"No Failure",Critical
+M16111,M,Europe,24.25,35.65,48.7,220,0.8696,6930.7,0,"No Failure",Critical
+M17359,M,Europe,25.95,35.75,48.4,220,0.8696,6715.68,0,"No Failure",Critical
+L51208,L,Asia-Pacific,28.85,37.75,43.2,220,0.8696,6582.26,0,"No Failure",Critical
+H35584,H,"North americ",27.65,37.35,40.1,220,0.8696,6546.65,0,"No Failure",Critical
+L50629,L,Asia-Pacific,28.55,37.55,33.3,220,0.8696,5596.9,0,"No Failure",Critical
+M19239,M,Europe,28.65,36.35,30.1,220,0.8696,5459.38,0,"No Failure",Critical
+L53855,L,Asia-Pacific,28.35,37.45,28,220,0.8696,4629.87,0,"No Failure",Critical
+L47765,L,Asia-Pacific,24.45,36.35,20.5,220,0.8696,4069.17,0,"No Failure",Critical
+M22885,M,Europe,27.65,38.85,50.7,219,0.8656,7549.81,0,"No Failure",Critical
+L50205,L,Asia-Pacific,27.35,36.45,50.2,219,0.8656,7180.97,0,"No Failure",Critical
+M22542,M,Europe,27.55,38.55,49.1,219,0.8656,7260.14,0,"No Failure",Critical
+L49850,L,Asia-Pacific,26.65,36.25,46.2,219,0.8656,7097.42,0,"No Failure",Critical
+M23057,M,Europe,26.25,37.55,45.7,219,0.8656,7140.25,0,"No Failure",Critical
+M15614,M,Europe,23.75,34.95,44.3,219,0.8656,6879.76,0,"No Failure",Critical
+L56674,L,Asia-Pacific,26.05,36.75,41.4,219,0.8656,6572.46,0,"No Failure",Critical
+L50034,L,Asia-Pacific,27.35,36.15,40.8,219,0.8656,6280.67,0,"No Failure",Critical
+L51820,L,Asia-Pacific,29.95,38.05,40.1,219,0.8656,6025.94,0,"No Failure",Critical
+L49343,L,Asia-Pacific,26.45,36.05,39.8,219,0.8656,5926.68,0,"No Failure",Critical
+L54434,L,Asia-Pacific,27.15,37.25,37.5,219,0.8656,5863,0,"No Failure",Critical
+L53004,L,Asia-Pacific,28.05,37.85,37.2,219,0.8656,6217.34,0,"No Failure",Critical
+M16540,M,Europe,24.75,34.25,34.6,219,0.8656,5833.52,0,"No Failure",Critical
+L55117,L,Asia-Pacific,27.65,38.55,31.4,219,0.8656,5188.78,0,"No Failure",Critical
+M16030,M,Europe,23.95,34.95,24.3,219,0.8656,4638.97,0,"No Failure",Critical
+L52079,L,Asia-Pacific,30.45,39.15,17.7,219,0.8656,3513.38,0,"No Failure",Critical
+M15191,M,Europe,24.45,35.25,51.9,218,0.8617,7560.02,0,"No Failure",Critical
+L55787,L,Asia-Pacific,24.35,35.25,50,218,0.8617,7503.17,0,"No Failure",Critical
+M20248,M,Europe,29.65,39.15,49,218,0.8617,7347.98,0,"No Failure",Critical
+L49678,L,Asia-Pacific,25.95,35.75,47.2,218,0.8617,7251.05,0,"No Failure",Critical
+M15361,M,Europe,24.45,36.15,46.2,218,0.8617,7082.91,0,"No Failure",Critical
+H33276,H,"North americ",29.35,38.35,43.8,218,0.8617,6861.74,0,"No Failure",Critical
+M24520,M,Europe,25.75,36.65,43.1,218,0.8617,6282.68,0,"No Failure",Critical
+M20853,M,Europe,27.55,37.45,42.4,218,0.8617,6247.25,0,"No Failure",Critical
+L53349,L,Asia-Pacific,27.55,37.35,38.2,218,0.8617,5792.43,0,"No Failure",Critical
+L51207,L,Asia-Pacific,28.85,37.85,37.8,218,0.8617,6198.86,0,"No Failure",Critical
+L50628,L,Asia-Pacific,28.45,37.45,36.6,218,0.8617,5664.79,0,"No Failure",Critical
+L48430,L,Asia-Pacific,24.15,35.55,36.1,218,0.8617,5855.81,0,"No Failure",Critical
+L53854,L,Asia-Pacific,28.35,37.55,35.5,218,0.8617,6015,0,"No Failure",Critical
+M18051,M,Europe,26.95,36.05,33.7,218,0.8617,6112.32,0,"No Failure",Critical
+M23142,M,Europe,25.75,37.55,33.6,218,0.8617,5763.44,0,"No Failure",Critical
+L55116,L,Asia-Pacific,27.65,38.55,46.4,217,0.8577,7239.9,0,"No Failure",Critical
+M19238,M,Europe,28.75,36.45,45.8,217,0.8577,6642.69,0,"No Failure",Critical
+L56519,L,Asia-Pacific,25.35,35.85,44.8,217,0.8577,6840.13,0,"No Failure",Critical
+H35920,H,"North americ",27.85,36.95,44.1,217,0.8577,6714.78,0,"No Failure",Critical
+L48349,L,Asia-Pacific,23.85,34.95,43.7,217,0.8577,6200.82,0,"No Failure",Critical
+L54861,L,Asia-Pacific,27.55,38.65,43.7,217,0.8577,6603.53,0,"No Failure",Critical
+L49342,L,Asia-Pacific,26.35,35.95,42.1,217,0.8577,5890.03,0,"No Failure",Critical
+L50204,L,Asia-Pacific,27.35,36.45,41.6,217,0.8577,6382.04,0,"No Failure",Critical
+L47933,L,Asia-Pacific,23.65,34.85,40.4,217,0.8577,6498.32,0,"No Failure",Critical
+L53003,L,Asia-Pacific,28.05,37.85,39.3,217,0.8577,6354.31,0,"No Failure",Critical
+L54433,L,Asia-Pacific,27.15,37.35,39.1,217,0.8577,6231.89,0,"No Failure",Critical
+L55204,L,Asia-Pacific,27.75,38.85,38.7,217,0.8577,6050.61,0,"No Failure",Critical
+H37262,H,"North americ",27.05,38.45,37.7,217,0.8577,6107.46,0,"No Failure",Critical
+M16368,M,Europe,24.85,35.45,37.3,217,0.8577,5886.41,0,"No Failure",Critical
+L51910,L,Asia-Pacific,30.15,38.55,35.5,217,0.8577,5606.07,0,"No Failure",Critical
+M19157,M,Europe,28.65,37.05,34.2,217,0.8577,5762.5,0,"No Failure",Critical
+L55376,L,Asia-Pacific,26.25,37.65,33.6,217,0.8577,5707.14,0,"No Failure",Critical
+L51819,L,Asia-Pacific,29.95,38.15,31.8,217,0.8577,5517.96,0,"No Failure",Critical
+L48601,L,Asia-Pacific,25.55,36.65,31.8,217,0.8577,5291.51,0,"No Failure",Critical
+L48859,L,Asia-Pacific,24.85,34.35,27.9,217,0.8577,5235.65,0,"No Failure",Critical
+L52567,L,Asia-Pacific,29.65,39.05,50,216,0.8538,7503.17,0,"No Failure",Critical
+L49943,L,Asia-Pacific,26.65,36.05,47.5,216,0.8538,7416.51,0,"No Failure",Critical
+L53172,L,Asia-Pacific,27.55,37.45,47.2,216,0.8538,6366.29,0,"No Failure",Critical
+M17713,M,Europe,27.35,36.15,39.1,216,0.8538,6301.5,0,"No Failure",Critical
+L48429,L,Asia-Pacific,24.15,35.55,36.8,216,0.8538,5653.36,0,"No Failure",Critical
+L50627,L,Asia-Pacific,28.55,37.45,34.5,216,0.8538,5867.24,0,"No Failure",Critical
+L50370,L,Asia-Pacific,26.95,36.05,30.1,216,0.8538,5040.15,0,"No Failure",Critical
+H30745,H,"North americ",25.75,37.05,26.8,216,0.8538,4970.29,0,"No Failure",Critical
+M16454,M,Europe,24.85,35.05,51.2,215,0.8498,7361.55,0,"No Failure",High
+L55027,L,Asia-Pacific,27.05,38.45,50.9,215,0.8498,7046.57,0,"No Failure",High
+M17190,M,Europe,26.15,35.55,49.3,215,0.8498,7176.13,0,"No Failure",High
+L47932,L,Asia-Pacific,23.75,34.95,48.7,215,0.8498,7251.99,0,"No Failure",High
+H29998,H,"North americ",24.45,36.45,48.2,215,0.8498,7162.39,0,"No Failure",High
+L48028,L,Asia-Pacific,23.15,34.25,47.1,215,0.8498,7225.82,0,"No Failure",High
+L54860,L,Asia-Pacific,27.55,38.55,43.7,215,0.8498,6383.87,0,"No Failure",Medium
+L52917,L,Asia-Pacific,29.15,38.65,42.8,215,0.8498,7054.68,0,"No Failure",Medium
+M17357,M,Europe,26.05,35.75,42.3,215,0.8498,6737.49,0,"No Failure",Medium
+M15190,M,Europe,24.45,35.25,41.9,215,0.8498,6134.09,0,"No Failure",Medium
+M18721,M,Europe,29.35,38.35,41.1,215,0.8498,6374.2,0,"No Failure",Medium
+L49341,L,Asia-Pacific,26.25,35.95,40.5,215,0.8498,6209.04,0,"No Failure",Medium
+L53685,L,Asia-Pacific,27.95,36.95,39.6,215,0.8498,6042.04,0,"No Failure",Medium
+L54518,L,Asia-Pacific,26.65,37.35,38.8,215,0.8498,6078.44,0,"No Failure",Medium
+M23466,M,Europe,24.35,35.25,37.2,215,0.8498,5862.84,0,"No Failure",Medium
+L48348,L,Asia-Pacific,23.95,34.95,36.8,215,0.8498,6104.24,0,"No Failure",Medium
+L52833,L,Asia-Pacific,29.25,38.55,36.8,215,0.8498,5761.26,0,"No Failure",Medium
+L56672,L,Asia-Pacific,25.95,36.75,36.6,215,0.8498,6078.73,0,"No Failure",Medium
+M23789,M,Europe,24.25,35.25,35.8,215,0.8498,6073.33,0,"No Failure",Medium
+L52669,L,Asia-Pacific,29.45,38.95,35,215,0.8498,5494.12,0,"Random Failures",Medium
+L51818,L,Asia-Pacific,29.95,38.15,34.8,215,0.8498,5371.62,0,"No Failure",Medium
+M18886,M,Europe,28.95,37.85,34.1,215,0.8498,5620.67,0,"No Failure",Medium
+M24617,M,Europe,25.45,36.75,34,215,0.8498,5401.24,0,"No Failure",Medium
+L48858,L,Asia-Pacific,24.85,34.35,32.8,215,0.8498,5646.82,0,"No Failure",Medium
+L50203,L,Asia-Pacific,27.25,36.35,29.2,215,0.8498,5231.92,0,"No Failure",Medium
+M19066,M,Europe,29.15,37.65,28.4,215,0.8498,5118.32,0,"No Failure",Medium
+M15360,M,Europe,24.35,36.05,27.4,215,0.8498,5176.26,0,"No Failure",Medium
+M21028,M,Europe,27.55,37.45,27.1,215,0.8498,5045.8,0,"No Failure",Medium
+M19845,M,Europe,30.65,39.85,23.5,215,0.8498,4402.58,0,"No Failure",Medium
+M21704,M,Europe,28.15,38.25,23.2,215,0.8498,4465.42,0,"No Failure",Medium
+L54266,L,Asia-Pacific,27.45,37.25,13.4,215,0.8498,2659.85,0,"No Failure",Medium
+M16367,M,Europe,24.85,35.45,55.7,214,0.8458,8026.06,0,"No Failure",High
+H34312,H,"North americ",30.45,39.25,53.7,214,0.8458,8210.24,0,"No Failure",High
+M23877,M,Europe,24.15,34.95,52,214,0.8458,7454.79,0,"No Failure",High
+L53852,L,Asia-Pacific,28.45,37.55,50.5,214,0.8458,7530.61,0,"No Failure",High
+M20682,M,Europe,28.15,37.85,50.2,214,0.8458,7690.89,0,"No Failure",High
+L53263,L,Asia-Pacific,27.75,37.55,50,214,0.8458,7272.79,0,"No Failure",High
+M19237,M,Europe,28.65,36.45,49,214,0.8458,7368.5,0,"No Failure",High
+L47339,L,Asia-Pacific,25.25,35.05,47,214,0.8458,7240.01,0,"No Failure",High
+L47427,L,Asia-Pacific,24.85,35.05,45.5,214,0.8458,6999.42,0,"No Failure",High
+L49942,L,Asia-Pacific,26.65,36.05,44.4,214,0.8458,6876.69,0,"No Failure",Medium
+L50289,L,Asia-Pacific,26.75,36.05,44.3,214,0.8458,6916.88,0,"No Failure",Medium
+M22795,M,Europe,27.65,38.75,44.3,214,0.8458,6290.6,0,"No Failure",Medium
+L52566,L,Asia-Pacific,29.75,39.05,42,214,0.8458,6461,0,"No Failure",Medium
+L53171,L,Asia-Pacific,27.55,37.55,40.4,214,0.8458,5990.64,0,"No Failure",Medium
+L48428,L,Asia-Pacific,24.05,35.45,40.2,214,0.8458,6268.29,0,"No Failure",Medium
+H32083,H,"North americ",26.55,36.15,37.8,214,0.8458,5913.86,0,"No Failure",Medium
+M16280,M,Europe,25.65,36.75,35.2,214,0.8458,5510.77,0,"No Failure",Medium
+L56838,L,Asia-Pacific,25.85,36.75,34.5,214,0.8458,5592.66,0,"No Failure",Medium
+L50369,L,Asia-Pacific,26.95,35.95,33.7,214,0.8458,5473.57,0,"No Failure",Medium
+L48510,L,Asia-Pacific,25.75,37.05,30.2,214,0.8458,5363.66,0,"No Failure",Medium
+M17712,M,Europe,27.35,36.25,50.1,213,0.8419,7066.98,0,"No Failure",High
+L47597,L,Asia-Pacific,24.25,35.25,50.1,213,0.8419,7313.56,0,"No Failure",High
+L51908,L,Asia-Pacific,30.25,38.55,47.1,213,0.8419,6934.81,0,"No Failure",High
+L55374,L,Asia-Pacific,26.25,37.55,45.7,213,0.8419,6824.4,0,"No Failure",High
+L52488,L,Asia-Pacific,30.85,40.05,42.6,213,0.8419,6606.83,0,"No Failure",Medium
+L54023,L,Asia-Pacific,28.15,38.15,42.5,213,0.8419,6715.94,0,"No Failure",Medium
+L56108,L,Asia-Pacific,24.25,35.25,41.5,213,0.8419,6653.53,0,"No Failure",Medium
+L54265,L,Asia-Pacific,27.45,37.15,41,213,0.8419,6371.57,0,"No Failure",Medium
+L49340,L,Asia-Pacific,26.25,35.85,41,213,0.8419,6470.32,0,"No Failure",Medium
+L49509,L,Asia-Pacific,26.15,35.55,40.5,213,0.8419,6293.87,0,"No Failure",Medium
+L51475,L,Asia-Pacific,28.65,37.05,40.4,213,0.8419,6164.1,0,"No Failure",Medium
+L53768,L,Asia-Pacific,28.45,37.55,40.4,213,0.8419,6164.1,0,"No Failure",Medium
+L51040,L,Asia-Pacific,29.45,38.35,38.9,213,0.8419,5813.03,0,"No Failure",Medium
+H37695,H,"North americ",25.75,37.45,38.8,213,0.8419,6171.89,0,"No Failure",Medium
+M18133,M,Europe,28.15,36.75,36,213,0.8419,5899.91,0,"No Failure",Medium
+L56936,L,Asia-Pacific,25.45,36.65,35.9,213,0.8419,6003.82,0,"No Failure",Medium
+L47679,L,Asia-Pacific,24.35,35.95,35.1,213,0.8419,5568.63,0,"No Failure",Medium
+L48773,L,Asia-Pacific,24.85,35.15,34.7,213,0.8419,5610.55,0,"No Failure",Medium
+L55785,L,Asia-Pacific,24.35,35.25,33.3,213,0.8419,5694.55,0,"No Failure",Medium
+L54517,L,Asia-Pacific,26.75,37.35,32.8,213,0.8419,5286.17,0,"No Failure",Medium
+L54859,L,Asia-Pacific,27.55,38.55,32.4,213,0.8419,5547.42,0,"No Failure",Medium
+L50202,L,Asia-Pacific,27.35,36.45,30.6,213,0.8419,5639.79,0,"No Failure",Medium
+L52832,L,Asia-Pacific,29.25,38.65,26.5,213,0.8419,4792.55,0,"No Failure",Medium
+L51385,L,Asia-Pacific,29.15,37.65,26.3,213,0.8419,4745.37,0,"No Failure",Medium
+L57168,L,Asia-Pacific,25.75,35.45,24.1,213,0.8419,4469.55,0,"No Failure",Medium
+M22285,M,Europe,26.85,38.25,24.1,213,0.8419,4520.03,0,"No Failure",Medium
+M21027,M,Europe,27.75,37.55,51.6,212,0.8379,7359.62,0,"No Failure",High
+L53001,L,Asia-Pacific,28.15,37.95,49.2,212,0.8379,6713.33,0,"No Failure",High
+L53262,L,Asia-Pacific,27.75,37.55,46.4,212,0.8379,6569.36,0,"No Failure",High
+L57013,L,Asia-Pacific,25.15,35.95,45.3,212,0.8379,6574.91,0,"No Failure",High
+L50543,L,Asia-Pacific,28.25,37.45,43.3,212,0.8379,7050.94,0,"No Failure",Medium
+H36666,H,"North americ",27.05,37.25,42.9,212,0.8379,6743.21,0,"No Failure",Medium
+L48427,L,Asia-Pacific,24.05,35.35,42.9,212,0.8379,6797.12,0,"No Failure",Medium
+H37437,H,"North americ",27.75,38.85,42.7,212,0.8379,6246.73,0,"No Failure",Medium
+L53851,L,Asia-Pacific,28.35,37.45,42.1,212,0.8379,5982.61,0,"No Failure",Medium
+M24351,M,Europe,25.85,36.55,40.7,212,0.8379,6346.26,0,"No Failure",Medium
+L56837,L,Asia-Pacific,25.85,36.85,39.6,212,0.8379,6154,0,"No Failure",Medium
+L50288,L,Asia-Pacific,26.65,36.05,38.7,212,0.8379,6095.19,0,"No Failure",Medium
+M17356,M,Europe,26.05,35.75,37.4,212,0.8379,6160.68,0,"No Failure",Medium
+M20596,M,Europe,29.25,38.75,36.6,212,0.8379,5515.32,0,"No Failure",Medium
+H31496,H,"North americ",26.25,36.05,36.1,212,0.8379,5719.72,0,"No Failure",Medium
+M22706,M,Europe,27.05,38.45,35,212,0.8379,5893.63,0,"No Failure",Medium
+L48686,L,Asia-Pacific,24.85,35.65,33.7,212,0.8379,5681.78,0,"No Failure",Medium
+L47426,L,Asia-Pacific,24.75,34.95,33.5,212,0.8379,5560.36,0,"No Failure",Medium
+M16537,M,Europe,24.75,34.35,30.8,212,0.8379,5312.18,0,"No Failure",Medium
+H38752,H,"North americ",25.35,35.85,30.8,212,0.8379,4938.04,0,"No Failure",Medium
+M21364,M,Europe,27.85,36.95,27.4,212,0.8379,4823.33,0,"No Failure",Medium
+M19497,M,Europe,29.95,38.15,24.7,212,0.8379,4777.41,0,"No Failure",Medium
+M15611,M,Europe,23.65,34.95,24.2,212,0.8379,4670.56,0,"No Failure",Medium
+L55784,L,Asia-Pacific,24.25,35.05,52.1,211,0.834,7076.3,0,"No Failure",High
+M20850,M,Europe,27.55,37.55,51.6,211,0.834,7256.95,0,"No Failure",High
+M18048,M,Europe,26.95,36.05,51,211,0.834,7679.94,0,"No Failure",High
+L50201,L,Asia-Pacific,27.35,36.65,49.6,211,0.834,7380.82,0,"No Failure",High
+H32860,H,"North americ",28.45,37.45,49.5,211,0.834,7257.08,0,"No Failure",High
+L50031,L,Asia-Pacific,27.35,36.15,48.8,211,0.834,7016.47,0,"No Failure",High
+M15018,M,Europe,25.25,35.05,40,211,0.834,6279,0,"No Failure",Medium
+L55460,L,Asia-Pacific,25.65,37.45,39.1,211,0.834,6559.46,0,"No Failure",Medium
+L48772,L,Asia-Pacific,24.95,35.25,38.2,211,0.834,6368.47,0,"No Failure",Medium
+L47596,L,Asia-Pacific,24.25,35.35,37.8,211,0.834,5917.82,0,"No Failure",Medium
+L51039,L,Asia-Pacific,29.45,38.35,37,211,0.834,6195.53,0,"No Failure",Medium
+L49508,L,Asia-Pacific,26.15,35.55,36.3,211,0.834,6002.3,0,"No Failure",Medium
+L52487,L,Asia-Pacific,30.85,40.15,34.8,211,0.834,5575.7,0,"No Failure",Medium
+M19236,M,Europe,28.75,36.45,34.6,211,0.834,5619.74,0,"No Failure",Medium
+M17528,M,Europe,26.65,36.15,31.1,211,0.834,5341.13,0,"No Failure",Medium
+L47678,L,Asia-Pacific,24.35,35.95,30.2,211,0.834,5094.85,0,"No Failure",Medium
+L54022,L,Asia-Pacific,28.05,38.05,29.6,211,0.834,5068.02,0,"No Failure",Medium
+M22794,M,Europe,27.65,38.75,28.3,211,0.834,4803.95,0,"No Failure",Medium
+L52163,L,Asia-Pacific,30.65,39.95,25.8,211,0.834,5049.61,0,"No Failure",Medium
+L54264,L,Asia-Pacific,27.45,37.15,24.4,211,0.834,4583.96,0,"No Failure",Medium
+L55373,L,Asia-Pacific,26.35,37.65,22.3,211,0.834,4373.92,0,"No Failure",Medium
+M21785,M,Europe,27.95,38.45,55.5,210,0.83,7357.92,0,"No Failure",High
+M22538,M,Europe,27.45,38.55,52.1,210,0.83,7578.24,0,"No Failure",High
+M15706,M,Europe,23.25,34.25,50,210,0.83,7414.16,0,"No Failure",High
+L48598,L,Asia-Pacific,25.65,36.75,47.4,210,0.83,6552.11,0,"No Failure",High
+M20511,M,Europe,29.35,38.85,45.7,210,0.83,6924.9,0,"No Failure",High
+L50542,L,Asia-Pacific,28.25,37.45,43.9,210,0.83,6642.95,0,"No Failure",Medium
+L55202,L,Asia-Pacific,27.75,38.85,43.8,210,0.83,6609.47,0,"No Failure",Medium
+M19064,M,Europe,29.15,37.75,43.2,210,0.83,6889.89,0,"No Failure",Medium
+L51816,L,Asia-Pacific,29.85,38.15,43,210,0.83,6601.32,0,"No Failure",Medium
+L49940,L,Asia-Pacific,26.65,36.05,42.6,210,0.83,6245.49,0,"No Failure",Medium
+L53261,L,Asia-Pacific,27.75,37.55,41.7,210,0.83,6624.46,0,"No Failure",Medium
+M20347,M,Europe,29.45,38.95,39.9,210,0.83,6731.27,0,"No Failure",Medium
+M16026,M,Europe,23.95,34.95,37.7,210,0.83,5945.59,0,"No Failure",Medium
+M24847,M,Europe,25.65,35.45,37.1,210,0.83,5827.65,0,"No Failure",Medium
+L47930,L,Asia-Pacific,23.55,34.85,36.8,210,0.83,5915.41,0,"No Failure",Medium
+L48685,L,Asia-Pacific,24.85,35.55,36.7,210,0.83,6249.07,0,"No Failure",Medium
+H34229,H,"North americ",30.25,38.75,33.2,210,0.83,5333.25,0,"No Failure",Medium
+L56836,L,Asia-Pacific,25.85,36.95,33,210,0.83,5608.69,0,"No Failure",Medium
+H29997,H,"North americ",24.55,36.45,32.2,210,0.83,5722.24,0,"No Failure",Medium
+M17019,M,Europe,26.35,35.85,31.3,210,0.83,5250.92,0,"No Failure",Medium
+H30339,H,"North americ",22.45,32.95,30.9,210,0.83,5251.77,0,"No Failure",Medium
+M18132,M,Europe,28.15,36.85,30.8,210,0.83,5138.01,0,"No Failure",Medium
+L52915,L,Asia-Pacific,29.25,38.65,30.1,210,0.83,5273.4,0,"No Failure",Medium
+M18637,M,Europe,29.25,37.95,30.1,210,0.83,5424.7,0,"No Failure",Medium
+H29743,H,"North americ",24.55,35.35,29.9,210,0.83,5385.53,0,"No Failure",Medium
+M22284,M,Europe,26.95,38.25,29.8,210,0.83,4915.02,0,"No Failure",Medium
+L53000,L,Asia-Pacific,28.15,37.95,27.6,210,0.83,4979.93,0,"No Failure",Medium
+M19154,M,Europe,28.55,36.95,27.3,210,0.83,4982.97,0,"No Failure",Medium
+H33439,H,"North americ",28.95,37.85,26.1,210,0.83,4725.68,0,"No Failure",Medium
+M23787,M,Europe,24.25,35.25,25,210,0.83,4683.59,0,"No Failure",Medium
+M21447,M,Europe,28.45,37.55,24.6,210,0.83,4670.48,0,"No Failure",Medium
+L55025,L,Asia-Pacific,27.05,38.65,23.2,210,0.83,4368.24,0,"No Failure",Medium
+L53850,L,Asia-Pacific,28.35,37.45,20.2,210,0.83,4009.63,0,"No Failure",Medium
+L57012,L,Asia-Pacific,25.25,36.05,17.7,210,0.83,3513.38,0,"No Failure",Medium
+L48771,L,Asia-Pacific,25.05,35.25,49.4,209,0.8261,7009.63,0,"No Failure",High
+L47853,L,Asia-Pacific,24.45,35.75,47.7,209,0.8261,7237.95,0,"No Failure",High
+M16941,M,Europe,26.25,36.15,47.1,209,0.8261,7324.47,0,"No Failure",High
+L53169,L,Asia-Pacific,27.55,37.55,46.1,209,0.8261,7275.16,0,"No Failure",High
+M24350,M,Europe,25.85,36.55,44.7,209,0.8261,6637.62,0,"No Failure",Medium
+M21363,M,Europe,27.75,36.75,42.9,209,0.8261,6581.48,0,"No Failure",Medium
+L47595,L,Asia-Pacific,24.35,35.25,42.8,209,0.8261,6772.31,0,"No Failure",Medium
+M17355,M,Europe,25.95,35.65,41,209,0.8261,6401.62,0,"No Failure",Medium
+M22111,M,Europe,27.05,37.15,40.1,209,0.8261,6080.53,0,"No Failure",Medium
+M17967,M,Europe,26.65,35.95,39.4,209,0.8261,6007.4,0,"No Failure",Medium
+L47677,L,Asia-Pacific,24.25,35.85,39.2,209,0.8261,6178.05,0,"No Failure",Medium
+M18387,M,Europe,28.75,37.75,38.9,209,0.8261,6407.77,0,"No Failure",Medium
+L50200,L,Asia-Pacific,27.25,36.45,38.1,209,0.8261,6156.3,0,"No Failure",Medium
+H34311,H,"North americ",30.65,39.35,38,209,0.8261,6068.51,0,"No Failure",Medium
+L51038,L,Asia-Pacific,29.35,38.25,37.6,209,0.8261,6138.5,0,"No Failure",Medium
+L51555,L,Asia-Pacific,28.85,36.55,36.3,209,0.8261,5375.08,0,"No Failure",Medium
+L50030,L,Asia-Pacific,27.25,36.15,35,209,0.8261,6124.53,0,"No Failure",Medium
+M15105,M,Europe,24.75,34.95,31.4,209,0.8261,5349.9,0,"No Failure",Medium
+L52401,L,Asia-Pacific,30.75,39.85,31.4,209,0.8261,5346.61,0,"No Failure",Medium
+H30743,H,"North americ",25.65,37.05,30.4,209,0.8261,5294.13,0,"No Failure",Medium
+L51648,L,Asia-Pacific,29.55,37.35,29,209,0.8261,5238.61,0,"No Failure",Medium
+M22368,M,Europe,27.35,38.75,27.5,209,0.8261,4982.04,0,"No Failure",Medium
+H34799,H,"North americ",29.75,39.15,26.9,209,0.8261,4940.95,0,"No Failure",Medium
+L55459,L,Asia-Pacific,25.65,37.45,25.4,209,0.8261,4795.77,0,"No Failure",Medium
+L52162,L,Asia-Pacific,30.55,39.85,24.3,209,0.8261,4608.43,0,"No Failure",Medium
+L55113,L,Asia-Pacific,27.65,38.65,21.8,209,0.8261,4327.22,0,"No Failure",Medium
+L54857,L,Asia-Pacific,27.45,38.55,52.6,208,0.8221,7865.79,0,"No Failure",High
+M17187,M,Europe,26.15,35.55,50.3,208,0.8221,7479.71,0,"No Failure",High
+L47762,L,Asia-Pacific,24.65,36.55,49.2,208,0.8221,6909.12,0,"No Failure",High
+L53519,L,Asia-Pacific,27.35,36.85,48.6,208,0.8221,7384.69,0,"No Failure",High
+L54603,L,Asia-Pacific,26.85,38.15,47.3,208,0.8221,6969.21,0,"No Failure",High
+L48684,L,Asia-Pacific,24.85,35.55,47,208,0.8221,7412.27,0,"No Failure",High
+L52830,L,Asia-Pacific,29.35,38.85,46.3,208,0.8221,7059.45,0,"No Failure",High
+L51473,L,Asia-Pacific,28.65,36.85,44.9,208,0.8221,6549.77,0,"No Failure",Medium
+L53766,L,Asia-Pacific,28.35,37.45,44,208,0.8221,6694.94,0,"No Failure",Medium
+L52666,L,Asia-Pacific,29.45,39.05,43,208,0.8221,6844.48,0,"No Failure",Medium
+H36750,H,"North americ",26.75,37.35,42.8,208,0.8221,6942.63,0,"No Failure",Medium
+L55024,L,Asia-Pacific,26.95,38.55,42.6,208,0.8221,6704.98,0,"No Failure",Medium
+L52999,L,Asia-Pacific,28.15,37.85,41.9,208,0.8221,6221.84,0,"No Failure",Medium
+L48025,L,Asia-Pacific,23.15,34.15,41.5,208,0.8221,6253.71,0,"No Failure",Medium
+L49939,L,Asia-Pacific,26.55,35.95,41.1,208,0.8221,6382.81,0,"No Failure",Medium
+L50541,L,Asia-Pacific,28.35,37.45,40.7,208,0.8221,6474.12,0,"No Failure",Medium
+L48597,L,Asia-Pacific,25.55,36.75,38.5,208,0.8221,6212.87,0,"No Failure",Medium
+L50956,L,Asia-Pacific,29.35,37.95,36.8,208,0.8221,5926.97,0,"No Failure",Medium
+L53260,L,Asia-Pacific,27.75,37.55,36.2,208,0.8221,5564.98,0,"No Failure",Medium
+M18305,M,Europe,28.45,37.45,36.1,208,0.8221,6044.83,0,"No Failure",Medium
+L57011,L,Asia-Pacific,25.25,36.15,35.4,208,0.8221,5716.32,0,"No Failure",Medium
+H39169,H,"North americ",25.35,36.55,35.3,208,0.8221,5770.4,0,"No Failure",Medium
+M17527,M,Europe,26.65,36.15,35.2,208,0.8221,6130.04,0,"No Failure",Medium
+M21701,M,Europe,27.95,38.05,35,208,0.8221,5831.32,0,"No Failure",Medium
+L48345,L,Asia-Pacific,23.95,34.95,34.6,208,0.8221,5387.85,0,"No Failure",Medium
+L53849,L,Asia-Pacific,28.25,37.35,33.9,208,0.8221,5577.05,0,"No Failure",Medium
+M18047,M,Europe,27.05,36.25,27.8,208,0.8221,5100.44,0,"No Failure",Medium
+L48104,L,Asia-Pacific,22.35,32.85,27.6,208,0.8221,5202.48,0,"No Failure",Medium
+L47929,L,Asia-Pacific,23.45,34.85,22.3,208,0.8221,4426.47,0,"No Failure",Medium
+L54184,L,Asia-Pacific,27.35,37.45,20.3,208,0.8221,4029.47,0,"No Failure",Medium
+L49769,L,Asia-Pacific,25.85,35.55,16.6,208,0.8221,3295.04,0,"No Failure",Medium
+M17018,M,Europe,26.35,35.85,49.7,207,0.8182,7281.2,0,"No Failure",High
+L51124,L,Asia-Pacific,29.05,38.05,49.4,207,0.8182,7144.13,0,"No Failure",High
+L55458,L,Asia-Pacific,25.65,37.35,46.4,207,0.8182,7113.57,0,"No Failure",High
+H31090,H,"North americ",24.75,34.45,43,207,0.8182,6385.18,0,"No Failure",Medium
+M24846,M,Europe,25.65,35.45,42.3,207,0.8182,6675.48,0,"No Failure",Medium
+L56669,L,Asia-Pacific,25.75,36.55,41.9,207,0.8182,6173.58,0,"No Failure",Medium
+L55112,L,Asia-Pacific,27.55,38.65,41.9,207,0.8182,6485.11,0,"No Failure",Medium
+H35580,H,"North americ",27.75,37.55,40.6,207,0.8182,5965.03,0,"No Failure",Medium
+H38751,H,"North americ",25.35,35.75,40.3,207,0.8182,6330.31,0,"No Failure",Medium
+L54262,L,Asia-Pacific,27.55,37.15,40,207,0.8182,6107.26,0,"No Failure",Medium
+L50286,L,Asia-Pacific,26.65,35.95,39.9,207,0.8182,6204.8,0,"No Failure",Medium
+L51647,L,Asia-Pacific,29.65,37.45,37.9,207,0.8182,6417.68,0,"No Failure",Medium
+L48770,L,Asia-Pacific,25.05,35.25,37.7,207,0.8182,5910.06,0,"No Failure",Medium
+M19495,M,Europe,29.85,38.05,35.7,207,0.8182,6033.93,0,"No Failure",Medium
+L51554,L,Asia-Pacific,28.85,36.55,34.8,207,0.8182,5652.23,0,"No Failure",Medium
+M22881,M,Europe,27.85,38.85,34.6,207,0.8182,5431.33,0,"No Failure",Medium
+L55619,L,Asia-Pacific,25.45,36.65,34.6,207,0.8182,5931.35,0,"No Failure",Medium
+H30660,H,"North americ",24.05,35.35,33.3,207,0.8182,5764.29,0,"No Failure",Medium
+L52400,L,Asia-Pacific,30.65,39.85,32.9,207,0.8182,5626.14,0,"No Failure",Medium
+L47594,L,Asia-Pacific,24.25,35.25,32.5,207,0.8182,5404.59,0,"No Failure",Medium
+M18131,M,Europe,28.25,36.85,32.1,207,0.8182,5677.58,0,"No Failure",Medium
+M19063,M,Europe,29.15,37.75,31.9,207,0.8182,5204.59,0,"No Failure",Medium
+L54687,L,Asia-Pacific,27.35,38.75,28.3,207,0.8182,5186.25,0,"No Failure",Medium
+L50029,L,Asia-Pacific,27.25,36.15,28.2,207,0.8182,5215.17,0,"No Failure",Medium
+M19412,M,Europe,29.55,37.35,22.7,207,0.8182,4469.02,0,"No Failure",Medium
+M19586,M,Europe,30.25,38.65,18.3,207,0.8182,3632.48,0,"No Failure",Medium
+L49260,L,Asia-Pacific,26.15,36.05,15.4,207,0.8182,3056.84,0,"No Failure",Medium
+L53682,L,Asia-Pacific,27.75,36.85,13.7,207,0.8182,2719.4,0,"No Failure",Medium
+L52665,L,Asia-Pacific,29.45,38.95,51,206,0.8142,7177.91,0,"No Failure",High
+L50624,L,Asia-Pacific,28.35,37.45,50.7,206,0.8142,7332.13,0,"No Failure",High
+L54515,L,Asia-Pacific,26.75,37.25,49.9,206,0.8142,6939.48,0,"No Failure",High
+L54103,L,Asia-Pacific,28.05,38.55,49.3,206,0.8142,7398.13,0,"No Failure",High
+H38017,H,"North americ",24.15,34.85,49.1,206,0.8142,7116.17,0,"No Failure",High
+L54856,L,Asia-Pacific,27.45,38.55,49.1,206,0.8142,7445.24,0,"No Failure",High
+M15104,M,Europe,24.85,35.05,49.1,206,0.8142,7172.73,0,"No Failure",High
+L47256,L,Asia-Pacific,25.65,35.75,47.9,206,0.8142,7328.49,0,"No Failure",High
+L51298,L,Asia-Pacific,28.85,37.45,47.7,206,0.8142,6823.35,0,"No Failure",High
+M16777,M,Europe,24.95,34.75,47.3,206,0.8142,7246.6,0,"No Failure",High
+L54183,L,Asia-Pacific,27.35,37.45,46.7,206,0.8142,7531.24,0,"No Failure",High
+L50540,L,Asia-Pacific,28.35,37.45,46.5,206,0.8142,6788.04,0,"No Failure",High
+M20244,M,Europe,29.75,39.25,46,206,0.8142,6845.11,0,"No Failure",High
+L52746,L,Asia-Pacific,29.25,38.85,45.5,206,0.8142,6942.24,0,"No Failure",High
+L54602,L,Asia-Pacific,26.85,38.05,44.1,206,0.8142,6239.11,0,"No Failure",Medium
+H29571,H,"North americ",25.25,35.05,43.5,206,0.8142,6732.75,0,"No Failure",Medium
+M15532,M,Europe,24.45,35.75,43.2,206,0.8142,6482.74,0,"No Failure",Medium
+M24767,M,Europe,25.45,35.95,43.2,206,0.8142,6727.03,0,"No Failure",Medium
+L52913,L,Asia-Pacific,29.15,38.65,43.2,206,0.8142,6727.03,0,"No Failure",Medium
+L47761,L,Asia-Pacific,24.65,36.55,42.9,206,0.8142,6262.51,0,"No Failure",Medium
+M22110,M,Europe,26.95,37.05,42,206,0.8142,6285.07,0,"No Failure",Medium
+M15356,M,Europe,24.35,36.05,40,206,0.8142,6408.85,0,"No Failure",Medium
+L53848,L,Asia-Pacific,28.25,37.35,39.2,206,0.8142,6059,0,"No Failure",Medium
+M19841,M,Europe,30.55,39.65,37.7,206,0.8142,6150.88,0,"No Failure",Medium
+L52998,L,Asia-Pacific,28.15,37.85,36.9,206,0.8142,5946.94,0,"No Failure",Medium
+L56277,L,Asia-Pacific,24.15,34.95,36.9,206,0.8142,6344.95,0,"No Failure",Medium
+L48024,L,Asia-Pacific,23.35,34.35,35.1,206,0.8142,5756.09,0,"No Failure",Medium
+L53938,L,Asia-Pacific,28.55,37.95,32.8,206,0.8142,5646.82,0,"No Failure",Medium
+M19756,M,Europe,30.55,39.25,32.3,206,0.8142,5553.98,0,"No Failure",Medium
+H34720,H,"North americ",30.85,40.05,31.7,206,0.8142,5351.22,0,"No Failure",Medium
+L48344,L,Asia-Pacific,23.95,34.95,30.3,206,0.8142,5565.46,0,"No Failure",Medium
+M23051,M,Europe,26.45,37.75,29.8,206,0.8142,5086.66,0,"No Failure",Medium
+M16188,M,Europe,25.65,36.95,28.8,206,0.8142,5184.38,0,"No Failure",Medium
+L49768,L,Asia-Pacific,25.85,35.55,28.6,206,0.8142,5109.44,0,"No Failure",Medium
+L53518,L,Asia-Pacific,27.25,36.75,28.6,206,0.8142,5034.57,0,"No Failure",Medium
+L48683,L,Asia-Pacific,24.85,35.55,26.2,206,0.8142,4859.02,0,"No Failure",Medium
+L54020,L,Asia-Pacific,27.95,37.95,21.7,206,0.8142,4088.08,0,"No Failure",Medium
+L54261,L,Asia-Pacific,27.55,37.25,52.6,205,0.8103,7524.28,0,"No Failure",High
+M17186,M,Europe,26.25,35.55,52.6,205,0.8103,8190.78,0,"No Failure",High
+H35832,H,"North americ",27.15,36.75,52.1,205,0.8103,7665.54,0,"No Failure",High
+M20509,M,Europe,29.35,38.75,51.6,205,0.8103,7640.6,0,"No Failure",High
+L51203,L,Asia-Pacific,28.95,37.85,50,205,0.8103,7141.89,0,"No Failure",High
+H39069,H,"North americ",25.95,36.85,49.5,205,0.8103,7417.77,0,"No Failure",High
+M18046,M,Europe,27.05,36.25,48.8,205,0.8103,7440.63,0,"No Failure",High
+M22703,M,Europe,26.95,38.55,48.5,205,0.8103,7110.47,0,"No Failure",High
+M15783,M,Europe,22.35,32.85,45.3,205,0.8103,6750.43,0,"No Failure",High
+M17618,M,Europe,26.55,36.05,45.3,205,0.8103,6698.25,0,"No Failure",High
+L56593,L,Asia-Pacific,24.95,35.45,44.9,205,0.8103,6766.06,0,"No Failure",Medium
+M20939,M,Europe,27.65,37.55,44.7,205,0.8103,6417.61,0,"No Failure",Medium
+L48855,L,Asia-Pacific,24.85,34.55,43.9,205,0.8103,6468.26,0,"No Failure",Medium
+L55618,L,Asia-Pacific,25.45,36.65,42.8,205,0.8103,6584.07,0,"No Failure",Medium
+L54686,L,Asia-Pacific,27.35,38.75,41.8,205,0.8103,6614.08,0,"No Failure",Medium
+L51646,L,Asia-Pacific,29.65,37.45,41.1,205,0.8103,6326.85,0,"No Failure",Medium
+M19673,M,Europe,30.15,38.65,40.6,205,0.8103,6530.49,0,"No Failure",Medium
+L51382,L,Asia-Pacific,29.25,37.85,40.6,205,0.8103,6611.27,0,"No Failure",Medium
+L55869,L,Asia-Pacific,23.95,35.25,39.6,205,0.8103,6398.67,0,"No Failure",Medium
+L55111,L,Asia-Pacific,27.55,38.55,38.4,205,0.8103,6027.84,0,"No Failure",Medium
+M22452,M,Europe,27.35,38.05,36.6,205,0.8103,5944.58,0,"No Failure",Medium
+M20768,M,Europe,27.65,37.15,36.3,205,0.8103,5800.83,0,"No Failure",Medium
+L53345,L,Asia-Pacific,27.75,37.55,35.8,205,0.8103,5709.68,0,"No Failure",Medium
+L50285,L,Asia-Pacific,26.65,35.95,35.4,205,0.8103,5975.81,0,"No Failure",Medium
+L47593,L,Asia-Pacific,24.25,35.25,34.5,205,0.8103,5682.98,0,"No Failure",Medium
+M24614,M,Europe,25.35,36.55,34,205,0.8103,5525.85,0,"No Failure",Medium
+M21445,M,Europe,28.35,37.35,32.8,205,0.8103,5495.69,0,"No Failure",Medium
+L56516,L,Asia-Pacific,25.35,35.75,31.9,205,0.8103,5762.47,0,"No Failure",Medium
+H29742,H,"North americ",24.45,35.25,31.4,205,0.8103,5599.81,0,"No Failure",Medium
+L51814,L,Asia-Pacific,29.85,38.05,30.4,205,0.8103,5587.01,0,"No Failure",Medium
+L50450,L,Asia-Pacific,28.25,36.95,21.8,205,0.8103,4327.22,0,"No Failure",Medium
+M16276,M,Europe,25.55,36.75,18.2,205,0.8103,3612.63,0,"No Failure",Medium
+H35402,H,"North americ",27.55,37.65,58.2,204,0.8063,7898.72,0,"No Failure",High
+M17708,M,Europe,27.15,36.15,57.9,204,0.8063,8434.01,0,"No Failure",High
+L49096,L,Asia-Pacific,24.85,34.55,50.8,204,0.8063,7378.51,0,"No Failure",High
+L48266,L,Asia-Pacific,23.85,34.75,49,204,0.8063,7465.99,0,"No Failure",High
+H31176,H,"North americ",25.05,34.45,48.6,204,0.8063,7430.49,0,"No Failure",High
+L54102,L,Asia-Pacific,28.05,38.55,48.3,204,0.8063,7399.8,0,"No Failure",High
+L48682,L,Asia-Pacific,24.85,35.55,48.2,204,0.8063,7379.43,0,"No Failure",High
+L48343,L,Asia-Pacific,23.75,34.75,47.1,204,0.8063,6742.45,0,"No Failure",High
+L47255,L,Asia-Pacific,25.65,35.75,46.7,204,0.8063,6743.88,0,"No Failure",High
+M17353,M,Europe,25.85,35.65,45.7,204,0.8063,6786.11,0,"No Failure",High
+L54855,L,Asia-Pacific,27.35,38.45,45.4,204,0.8063,6879.44,0,"No Failure",High
+M18554,M,Europe,28.95,38.15,45,204,0.8063,7120.42,0,"No Failure",Medium
+L54429,L,Asia-Pacific,26.75,36.85,44.7,204,0.8063,6562.72,0,"No Failure",Medium
+L52912,L,Asia-Pacific,29.05,38.55,44.5,204,0.8063,6579.96,0,"No Failure",Medium
+L47423,L,Asia-Pacific,24.85,35.05,44.1,204,0.8063,6659.36,0,"No Failure",Medium
+L48023,L,Asia-Pacific,23.45,34.35,42.7,204,0.8063,6640.23,0,"No Failure",Medium
+M19585,M,Europe,30.25,38.65,42.6,204,0.8063,6758.51,0,"No Failure",Medium
+M23785,M,Europe,24.05,35.05,42.5,204,0.8063,6253.08,0,"No Failure",Medium
+L50539,L,Asia-Pacific,28.35,37.45,41.9,204,0.8063,6691.33,0,"No Failure",Medium
+M16449,M,Europe,24.95,35.15,41.5,204,0.8063,6314.55,0,"No Failure",Medium
+H33271,H,"North americ",29.25,38.05,40.8,204,0.8063,6434.48,0,"No Failure",Medium
+L52563,L,Asia-Pacific,29.65,39.15,40.3,204,0.8063,6347.19,0,"No Failure",Medium
+L50623,L,Asia-Pacific,28.35,37.35,39,204,0.8063,6269.05,0,"No Failure",Medium
+M16939,M,Europe,26.15,36.15,37.9,204,0.8063,6044.6,0,"No Failure",Medium
+H32940,H,"North americ",28.65,37.65,37.6,204,0.8063,5788.07,0,"No Failure",Medium

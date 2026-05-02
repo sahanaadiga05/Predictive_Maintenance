@@ -1,0 +1,337 @@
+product_id,type,region,failure_type,current_wear,prev_failure_wear,next_failure_wear,wear_gap_since_last_failure,wear_gap_to_next_failure
+H33979,H,"North americ","Heat Dissipation Failure",25,20,40,5,15
+H30851,H,"North americ","No Failure",40,25,66,15,26
+H34175,H,"North americ","Heat Dissipation Failure",66,40,81,26,15
+H32554,H,"North americ","Power Failure",81,66,100,15,19
+H30537,H,"North americ","Power Failure",100,81,101,19,1
+H33665,H,"North americ","Heat Dissipation Failure",101,100,101,1,0
+H33492,H,"North americ","Heat Dissipation Failure",101,101,112,0,11
+H34192,H,"North americ","Heat Dissipation Failure",112,101,130,11,18
+H33243,H,"North americ","Heat Dissipation Failure",130,112,147,18,17
+H33769,H,"North americ","Heat Dissipation Failure",147,130,159,17,12
+H32414,H,"North americ","Power Failure",159,147,161,12,2
+H34462,H,"North americ","Power Failure",161,159,206,2,45
+H30501,H,"North americ","Tool Wear Failure",206,161,208,45,2
+H35323,H,"North americ","Power Failure",208,206,210,2,2
+H35754,H,"North americ","Tool Wear Failure",210,208,210,2,0
+H35833,H,"North americ","Tool Wear Failure",210,210,225,0,15
+H31096,H,"North americ","Tool Wear Failure",225,210,228,15,3
+H33279,H,"North americ","Tool Wear Failure",228,225,246,3,18
+H32278,H,"North americ","Tool Wear Failure",246,228,246,18,0
+H34813,H,"North americ","Overstrain Failure",246,246,NULL,0,NULL
+L56355,L,Asia-Pacific,"Power Failure",0,0,3,0,3
+L54943,L,Asia-Pacific,"Power Failure",3,0,5,3,2
+L52168,L,Asia-Pacific,"Power Failure",5,3,8,2,3
+L51919,L,Asia-Pacific,"Heat Dissipation Failure",8,5,8,3,0
+L51391,L,Asia-Pacific,"Heat Dissipation Failure",8,8,9,0,1
+L51831,L,Asia-Pacific,"Heat Dissipation Failure",9,8,10,1,1
+L53358,L,Asia-Pacific,"Power Failure",10,9,10,1,0
+L51655,L,Asia-Pacific,"Heat Dissipation Failure",10,10,11,0,1
+L51738,L,Asia-Pacific,"Heat Dissipation Failure",11,10,12,1,1
+L56944,L,Asia-Pacific,"Power Failure",12,11,15,1,3
+L50549,L,Asia-Pacific,"Power Failure",15,12,17,3,2
+L54191,L,Asia-Pacific,"Power Failure",17,15,18,2,1
+L48275,L,Asia-Pacific,"Power Failure",18,17,18,1,0
+L54112,L,Asia-Pacific,"Power Failure",18,18,20,0,2
+L49778,L,Asia-Pacific,"Power Failure",20,18,20,2,0
+L51487,L,Asia-Pacific,"Heat Dissipation Failure",20,20,20,0,0
+L47348,L,Asia-Pacific,"Power Failure",20,20,22,0,2
+L51310,L,Asia-Pacific,"Heat Dissipation Failure",22,20,22,2,0
+L50967,L,Asia-Pacific,"Heat Dissipation Failure",22,22,29,0,7
+L51928,L,Asia-Pacific,"Heat Dissipation Failure",29,22,30,7,1
+L52011,L,Asia-Pacific,"Heat Dissipation Failure",30,29,31,1,1
+L51228,L,Asia-Pacific,"Power Failure",31,30,31,1,0
+L47783,L,Asia-Pacific,"Power Failure",31,31,32,0,1
+L51841,L,Asia-Pacific,"Heat Dissipation Failure",32,31,34,1,2
+L52013,L,Asia-Pacific,"Heat Dissipation Failure",34,32,34,2,0
+L50973,L,Asia-Pacific,"Heat Dissipation Failure",34,34,36,0,2
+L51580,L,Asia-Pacific,"Heat Dissipation Failure",36,34,40,2,4
+L51318,L,Asia-Pacific,"Heat Dissipation Failure",40,36,40,4,0
+L51750,L,Asia-Pacific,"Heat Dissipation Failure",40,40,41,0,1
+L51405,L,Asia-Pacific,"Heat Dissipation Failure",41,40,42,1,1
+L49195,L,Asia-Pacific,"Power Failure",42,41,42,1,0
+L52016,L,Asia-Pacific,"Heat Dissipation Failure",42,42,47,0,5
+L51320,L,Asia-Pacific,"Heat Dissipation Failure",47,42,49,5,2
+L53705,L,Asia-Pacific,"Power Failure",49,47,51,2,2
+L51935,L,Asia-Pacific,"Heat Dissipation Failure",51,49,52,2,1
+L52100,L,Asia-Pacific,"Power Failure",52,51,53,1,1
+L51585,L,Asia-Pacific,"Heat Dissipation Failure",53,52,55,1,2
+L51586,L,Asia-Pacific,"Heat Dissipation Failure",55,53,57,2,2
+L48964,L,Asia-Pacific,"Power Failure",57,55,59,2,2
+L52020,L,Asia-Pacific,"Heat Dissipation Failure",59,57,61,2,2
+L47622,L,Asia-Pacific,"Power Failure",61,59,62,2,1
+L51939,L,Asia-Pacific,"Heat Dissipation Failure",62,61,62,1,0
+L54460,L,Asia-Pacific,"Power Failure",62,62,64,0,2
+L51503,L,Asia-Pacific,"Heat Dissipation Failure",64,62,64,2,0
+L54716,L,Asia-Pacific,"Power Failure",64,64,65,0,1
+L51759,L,Asia-Pacific,"Heat Dissipation Failure",65,64,66,1,1
+L53204,L,Asia-Pacific,"Power Failure",66,65,67,1,1
+L48969,L,Asia-Pacific,"Power Failure",67,66,67,1,0
+L51675,L,Asia-Pacific,"Heat Dissipation Failure",67,67,70,0,3
+L51506,L,Asia-Pacific,"Heat Dissipation Failure",70,67,76,3,6
+L49624,L,Asia-Pacific,"Power Failure",76,70,77,6,1
+L51508,L,Asia-Pacific,"Heat Dissipation Failure",77,76,78,1,1
+L53121,L,Asia-Pacific,"No Failure",78,77,80,1,2
+L51597,L,Asia-Pacific,"Power Failure",80,78,85,2,5
+L51251,L,Asia-Pacific,"Power Failure",85,80,85,5,0
+L51335,L,Asia-Pacific,"Heat Dissipation Failure",85,85,86,0,1
+L51681,L,Asia-Pacific,"Heat Dissipation Failure",86,85,86,1,0
+L51948,L,Asia-Pacific,"Heat Dissipation Failure",86,86,90,0,4
+L51337,L,Asia-Pacific,"Heat Dissipation Failure",90,86,90,4,0
+L52031,L,Asia-Pacific,"Heat Dissipation Failure",90,90,91,0,1
+L55064,L,Asia-Pacific,"Power Failure",91,90,92,1,1
+L51601,L,Asia-Pacific,"Heat Dissipation Failure",92,91,92,1,0
+L56793,L,Asia-Pacific,"Power Failure",92,92,93,0,1
+L51950,L,Asia-Pacific,"Heat Dissipation Failure",93,92,93,1,0
+L51427,L,Asia-Pacific,"Heat Dissipation Failure",93,93,94,0,1
+L52116,L,Asia-Pacific,"Power Failure",94,93,97,1,3
+L51429,L,Asia-Pacific,"Heat Dissipation Failure",97,94,98,3,1
+L48464,L,Asia-Pacific,"Power Failure",98,97,102,1,4
+L55578,L,Asia-Pacific,"Power Failure",102,98,106,4,4
+L51690,L,Asia-Pacific,"Heat Dissipation Failure",106,102,106,4,0
+L51776,L,Asia-Pacific,"Heat Dissipation Failure",106,106,108,0,2
+L51260,L,Asia-Pacific,"Heat Dissipation Failure",108,106,109,2,1
+L51344,L,Asia-Pacific,"Heat Dissipation Failure",109,108,110,1,1
+L51261,L,Asia-Pacific,"Heat Dissipation Failure",110,109,114,1,4
+L51434,L,Asia-Pacific,"Power Failure",114,110,115,4,1
+L51780,L,Asia-Pacific,"Heat Dissipation Failure",115,114,118,1,3
+L47643,L,Asia-Pacific,"Power Failure",118,115,119,3,1
+L49305,L,Asia-Pacific,"Power Failure",119,118,124,1,5
+L50759,L,Asia-Pacific,"Power Failure",124,119,125,5,1
+L48988,L,Asia-Pacific,"Power Failure",125,124,126,1,1
+L51267,L,Asia-Pacific,"Heat Dissipation Failure",126,125,127,1,1
+L52797,L,Asia-Pacific,"Power Failure",127,126,127,1,0
+L47560,L,Asia-Pacific,"Power Failure",127,127,134,0,7
+L51615,L,Asia-Pacific,"Heat Dissipation Failure",134,127,134,7,0
+L49479,L,Asia-Pacific,"Power Failure",134,134,139,0,5
+L52886,L,Asia-Pacific,"Power Failure",139,134,142,5,3
+L48571,L,Asia-Pacific,"Power Failure",142,139,143,3,1
+L47230,L,Asia-Pacific,"Power Failure",143,142,145,1,2
+L53658,L,Asia-Pacific,"No Failure",145,143,146,2,1
+L51791,L,Asia-Pacific,"Heat Dissipation Failure",146,145,148,1,2
+L51882,L,Asia-Pacific,"Heat Dissipation Failure",148,146,148,2,0
+L51359,L,Asia-Pacific,"Heat Dissipation Failure",148,148,148,0,0
+L51621,L,Asia-Pacific,"Heat Dissipation Failure",148,148,149,0,1
+L48083,L,Asia-Pacific,"Power Failure",149,148,149,1,0
+L54749,L,Asia-Pacific,"Power Failure",149,149,153,0,4
+L51182,L,Asia-Pacific,"Power Failure",153,149,153,4,0
+L48324,L,Asia-Pacific,"Power Failure",153,153,153,0,0
+L51276,L,Asia-Pacific,"Heat Dissipation Failure",153,153,154,0,1
+L51450,L,Asia-Pacific,"Heat Dissipation Failure",154,153,155,1,1
+L51362,L,Asia-Pacific,"Heat Dissipation Failure",155,154,159,1,4
+L51364,L,Asia-Pacific,"Heat Dissipation Failure",159,155,161,4,2
+L51365,L,Asia-Pacific,"Heat Dissipation Failure",161,159,163,2,2
+L51628,L,Asia-Pacific,"Heat Dissipation Failure",163,161,163,2,0
+L55686,L,Asia-Pacific,"No Failure",163,163,166,0,3
+L50940,L,Asia-Pacific,"Heat Dissipation Failure",166,163,168,3,2
+L51716,L,Asia-Pacific,"Heat Dissipation Failure",168,166,169,2,1
+L51108,L,Asia-Pacific,"Power Failure",169,168,170,1,1
+L54170,L,Asia-Pacific,"Power Failure",170,169,172,1,2
+L56264,L,Asia-Pacific,"Power Failure",172,170,172,2,0
+L51800,L,Asia-Pacific,"Heat Dissipation Failure",172,172,172,0,0
+L57154,L,Asia-Pacific,"Power Failure",172,172,174,0,2
+L51801,L,Asia-Pacific,"Heat Dissipation Failure",174,172,174,2,0
+L51459,L,Asia-Pacific,"Heat Dissipation Failure",174,174,177,0,3
+L53333,L,Asia-Pacific,"Overstrain Failure",177,174,179,3,2
+L49413,L,Asia-Pacific,"Power Failure",179,177,180,2,1
+L51462,L,Asia-Pacific,"Heat Dissipation Failure",180,179,182,1,2
+L50864,L,Asia-Pacific,"Overstrain Failure",182,180,183,2,1
+L50530,L,Asia-Pacific,"Overstrain Failure",183,182,186,1,3
+L49013,L,Asia-Pacific,"Overstrain Failure",186,183,187,3,1
+L51898,L,Asia-Pacific,"Heat Dissipation Failure",187,186,187,1,0
+L51724,L,Asia-Pacific,"Heat Dissipation Failure",187,187,187,0,0
+L51465,L,Asia-Pacific,"Heat Dissipation Failure",187,187,187,0,0
+L57002,L,Asia-Pacific,"Overstrain Failure",187,187,189,0,2
+L48676,L,Asia-Pacific,"Power Failure",189,187,189,2,0
+L54849,L,Asia-Pacific,"Overstrain Failure",189,189,189,0,0
+L53428,L,Asia-Pacific,"Power Failure",189,189,189,0,0
+L48763,L,Asia-Pacific,"Overstrain Failure",189,189,190,0,1
+L53339,L,Asia-Pacific,"Overstrain Failure",190,189,191,1,1
+L49761,L,Asia-Pacific,"Overstrain Failure",191,190,191,1,0
+L54936,L,Asia-Pacific,"Overstrain Failure",191,191,191,0,0
+L47249,L,Asia-Pacific,"Power Failure",191,191,192,0,1
+L53677,L,Asia-Pacific,"Overstrain Failure",192,191,194,1,2
+L52156,L,Asia-Pacific,"Overstrain Failure",194,192,194,2,0
+L55106,L,Asia-Pacific,"Overstrain Failure",194,194,194,0,0
+L51034,L,Asia-Pacific,"Power Failure",194,194,195,0,1
+L49255,L,Asia-Pacific,"Overstrain Failure",195,194,195,1,0
+L50536,L,Asia-Pacific,"Overstrain Failure",195,195,195,0,0
+L50446,L,Asia-Pacific,"Overstrain Failure",195,195,197,0,2
+L51550,L,Asia-Pacific,"Heat Dissipation Failure",197,195,197,2,0
+L51642,L,Asia-Pacific,"Heat Dissipation Failure",197,197,198,0,1
+L54939,L,Asia-Pacific,"Overstrain Failure",198,197,199,1,1
+L47926,L,Asia-Pacific,"Overstrain Failure",199,198,200,1,1
+L48341,L,Asia-Pacific,"Overstrain Failure",200,199,200,1,0
+L52241,L,Asia-Pacific,"Overstrain Failure",200,200,200,0,0
+L56354,L,Asia-Pacific,"Tool Wear Failure",200,200,200,0,0
+L51903,L,Asia-Pacific,"Heat Dissipation Failure",200,200,201,0,1
+L56833,L,Asia-Pacific,"Overstrain Failure",201,200,202,1,1
+L48342,L,Asia-Pacific,"Overstrain Failure",202,201,202,1,0
+L47422,L,Asia-Pacific,"Overstrain Failure",202,202,202,0,0
+L48265,L,Asia-Pacific,"Overstrain Failure",202,202,203,0,1
+L55617,L,Asia-Pacific,"Overstrain Failure",203,202,203,1,0
+L56834,L,Asia-Pacific,"Overstrain Failure",203,203,203,0,0
+L47507,L,Asia-Pacific,"Overstrain Failure",203,203,203,0,0
+L53258,L,Asia-Pacific,"Overstrain Failure",203,203,203,0,0
+L55537,L,Asia-Pacific,"Tool Wear Failure",203,203,204,0,1
+L53435,L,Asia-Pacific,"Overstrain Failure",204,203,204,1,0
+L51297,L,Asia-Pacific,"Overstrain Failure",204,204,205,0,1
+L56756,L,Asia-Pacific,"Tool Wear Failure",205,204,205,1,0
+L51123,L,Asia-Pacific,"Power Failure",205,205,205,0,0
+L52321,L,Asia-Pacific,"Tool Wear Failure",205,205,205,0,0
+L52399,L,Asia-Pacific,"Overstrain Failure",205,205,206,0,1
+L57010,L,Asia-Pacific,"Overstrain Failure",206,205,206,1,0
+L53436,L,Asia-Pacific,"Tool Wear Failure",206,206,206,0,0
+L54347,L,Asia-Pacific,"Overstrain Failure",206,206,207,0,1
+L56594,L,Asia-Pacific,"Overstrain Failure",207,206,207,1,0
+L50791,L,Asia-Pacific,"Tool Wear Failure",207,207,207,0,0
+L50199,L,Asia-Pacific,"Overstrain Failure",207,207,207,0,0
+L55870,L,Asia-Pacific,"Tool Wear Failure",207,207,207,0,0
+L50875,L,Asia-Pacific,"Tool Wear Failure",207,207,207,0,0
+L49674,L,Asia-Pacific,"Overstrain Failure",207,207,208,0,1
+L54773,L,Asia-Pacific,"Overstrain Failure",208,207,208,1,0
+L51994,L,Asia-Pacific,"Overstrain Failure",208,208,208,0,0
+L53939,L,Asia-Pacific,"Tool Wear Failure",208,208,208,0,0
+L52914,L,Asia-Pacific,"Overstrain Failure",208,208,208,0,0
+L54104,L,Asia-Pacific,"Overstrain Failure",208,208,208,0,0
+L47257,L,Asia-Pacific,"Tool Wear Failure",208,208,208,0,0
+L51299,L,Asia-Pacific,"Heat Dissipation Failure",208,208,209,0,1
+L55372,L,Asia-Pacific,"Overstrain Failure",209,208,209,1,0
+L54263,L,Asia-Pacific,"Power Failure",209,209,209,0,0
+L48943,L,Asia-Pacific,"Tool Wear Failure",209,209,210,0,1
+L56195,L,Asia-Pacific,"No Failure",210,209,211,1,1
+L51649,L,Asia-Pacific,"Tool Wear Failure",211,210,212,1,1
+L50708,L,Asia-Pacific,"Overstrain Failure",212,211,212,1,0
+L56196,L,Asia-Pacific,"Overstrain Failure",212,212,212,0,0
+L48599,L,Asia-Pacific,"Overstrain Failure",212,212,212,0,0
+L49941,L,Asia-Pacific,"Overstrain Failure",212,212,212,0,0
+L54689,L,Asia-Pacific,"Overstrain Failure",212,212,213,0,1
+L48027,L,Asia-Pacific,"Power Failure",213,212,213,1,0
+L52668,L,Asia-Pacific,"Overstrain Failure",213,213,213,0,0
+L52164,L,Asia-Pacific,"Overstrain Failure",213,213,213,0,0
+L48347,L,Asia-Pacific,"Overstrain Failure",213,213,214,0,1
+L50709,L,Asia-Pacific,"Tool Wear Failure",214,213,214,1,0
+L54690,L,Asia-Pacific,"Tool Wear Failure",214,214,215,0,1
+L51476,L,Asia-Pacific,"Power Failure",215,214,215,1,0
+L51996,L,Asia-Pacific,"Tool Wear Failure",215,215,215,0,0
+L51909,L,Asia-Pacific,"Heat Dissipation Failure",215,215,215,0,0
+L48106,L,Asia-Pacific,"Overstrain Failure",215,215,215,0,0
+L55375,L,Asia-Pacific,"Overstrain Failure",215,215,216,0,1
+L47340,L,Asia-Pacific,"Overstrain Failure",216,215,216,1,0
+L56839,L,Asia-Pacific,"Overstrain Failure",216,216,216,0,0
+L53853,L,Asia-Pacific,"Overstrain Failure",216,216,216,0,0
+L47428,L,Asia-Pacific,"Overstrain Failure",216,216,217,0,1
+L54267,L,Asia-Pacific,"Tool Wear Failure",217,216,217,1,0
+L56673,L,Asia-Pacific,"Overstrain Failure",217,217,217,0,0
+L56198,L,Asia-Pacific,"Tool Wear Failure",217,217,218,0,1
+L48775,L,Asia-Pacific,"Overstrain Failure",218,217,218,1,0
+L56938,L,Asia-Pacific,"Tool Wear Failure",218,218,218,0,0
+L47341,L,Asia-Pacific,"Overstrain Failure",218,218,218,0,0
+L49511,L,Asia-Pacific,"Overstrain Failure",218,218,218,0,0
+L47429,L,Asia-Pacific,"Overstrain Failure",218,218,219,0,1
+L51911,L,Asia-Pacific,"Heat Dissipation Failure",219,218,220,1,1
+L48689,L,Asia-Pacific,"Tool Wear Failure",220,219,220,1,0
+L49512,L,Asia-Pacific,"Overstrain Failure",220,220,220,0,0
+L55788,L,Asia-Pacific,"Overstrain Failure",220,220,222,0,2
+L55789,L,Asia-Pacific,"Tool Wear Failure",222,220,222,2,0
+L47766,L,Asia-Pacific,"Overstrain Failure",222,222,222,0,0
+L55206,L,Asia-Pacific,"Overstrain Failure",222,222,225,0,3
+L55379,L,Asia-Pacific,"Tool Wear Failure",225,222,226,3,1
+L48514,L,Asia-Pacific,"Overstrain Failure",226,225,226,1,0
+L51822,L,Asia-Pacific,"Heat Dissipation Failure",226,226,227,0,1
+L53352,L,Asia-Pacific,"Tool Wear Failure",227,226,228,1,1
+L48515,L,Asia-Pacific,"Overstrain Failure",228,227,228,1,0
+L49682,L,Asia-Pacific,"Overstrain Failure",228,228,228,0,0
+L51823,L,Asia-Pacific,"Heat Dissipation Failure",228,228,229,0,1
+L56843,L,Asia-Pacific,"Overstrain Failure",229,228,229,1,0
+L51563,L,Asia-Pacific,"Heat Dissipation Failure",229,229,231,0,2
+L50038,L,Asia-Pacific,"Overstrain Failure",231,229,231,2,0
+L56844,L,Asia-Pacific,"Overstrain Failure",231,231,231,0,0
+L51212,L,Asia-Pacific,"Overstrain Failure",231,231,233,0,2
+L51565,L,Asia-Pacific,"Tool Wear Failure",233,231,234,2,1
+L51826,L,Asia-Pacific,"Tool Wear Failure",234,233,235,1,1
+L51214,L,Asia-Pacific,"Tool Wear Failure",235,234,238,1,3
+L56847,L,Asia-Pacific,"Overstrain Failure",238,235,251,3,13
+L52580,L,Asia-Pacific,"Overstrain Failure",251,238,NULL,13,NULL
+M18727,M,Europe,"Power Failure",2,0,2,2,0
+M19597,M,Europe,"Heat Dissipation Failure",2,2,6,0,4
+M19416,M,Europe,"Heat Dissipation Failure",6,2,6,4,0
+M19249,M,Europe,"Heat Dissipation Failure",6,6,12,0,6
+M19251,M,Europe,"Heat Dissipation Failure",12,6,19,6,7
+M15119,M,Europe,"Power Failure",19,12,20,7,1
+M18904,M,Europe,"No Failure",20,19,21,1,1
+M18317,M,Europe,"Power Failure",21,20,24,1,3
+M15876,M,Europe,"Power Failure",24,21,26,3,2
+M19857,M,Europe,"Power Failure",26,24,30,2,4
+M17286,M,Europe,"Power Failure",30,26,44,4,14
+M19525,M,Europe,"Heat Dissipation Failure",44,30,45,14,1
+M17739,M,Europe,"Power Failure",45,44,60,1,15
+M19529,M,Europe,"Heat Dissipation Failure",60,45,61,15,1
+M19269,M,Europe,"Heat Dissipation Failure",61,60,64,1,3
+M23167,M,Europe,"Power Failure",64,61,65,3,1
+M20194,M,Europe,"Power Failure",65,64,67,1,2
+M18666,M,Europe,"Heat Dissipation Failure",67,65,69,2,2
+M19704,M,Europe,"Heat Dissipation Failure",69,67,71,2,2
+M19622,M,Europe,"Power Failure",71,69,73,2,2
+M19011,M,Europe,"Heat Dissipation Failure",73,71,75,2,2
+M21478,M,Europe,"Power Failure",75,73,79,2,4
+M19013,M,Europe,"Heat Dissipation Failure",79,75,84,4,5
+M19279,M,Europe,"Power Failure",84,79,86,5,2
+M15054,M,Europe,"Power Failure",86,84,88,2,2
+M18674,M,Europe,"Heat Dissipation Failure",88,86,89,2,1
+M15740,M,Europe,"Power Failure",89,88,92,1,3
+M21400,M,Europe,"Power Failure",92,89,100,3,8
+M21659,M,Europe,"Power Failure",100,92,101,8,1
+M19544,M,Europe,"No Failure",101,100,105,1,4
+M15984,M,Europe,"Power Failure",105,101,107,4,2
+M19287,M,Europe,"Heat Dissipation Failure",107,105,111,2,4
+M23105,M,Europe,"Power Failure",111,107,111,4,0
+M19113,M,Europe,"Heat Dissipation Failure",111,111,111,0,0
+M19202,M,Europe,"Power Failure",111,111,113,0,2
+M18096,M,Europe,"Heat Dissipation Failure",113,111,117,2,4
+M19461,M,Europe,"Heat Dissipation Failure",117,113,119,4,2
+M15067,M,Europe,"Power Failure",119,117,119,2,0
+M20396,M,Europe,"No Failure",119,119,122,0,3
+M20475,M,Europe,"Power Failure",122,119,125,3,3
+M19118,M,Europe,"Heat Dissipation Failure",125,122,126,3,1
+M19030,M,Europe,"Heat Dissipation Failure",126,125,134,1,8
+M19033,M,Europe,"Heat Dissipation Failure",134,126,136,8,2
+M22424,M,Europe,"Power Failure",136,134,142,2,6
+M19213,M,Europe,"Power Failure",142,136,143,6,1
+M22857,M,Europe,"Power Failure",143,142,144,1,1
+M19387,M,Europe,"Heat Dissipation Failure",144,143,151,1,7
+M23442,M,Europe,"Power Failure",151,144,161,7,10
+M19393,M,Europe,"Heat Dissipation Failure",161,151,164,10,3
+M19478,M,Europe,"Heat Dissipation Failure",164,161,165,3,1
+M19309,M,Europe,"Heat Dissipation Failure",165,164,166,1,1
+M19221,M,Europe,"Heat Dissipation Failure",166,165,176,1,10
+M16352,M,Europe,"Power Failure",176,166,179,10,3
+M17609,M,Europe,"No Failure",179,176,182,3,3
+M19143,M,Europe,"Heat Dissipation Failure",182,179,187,3,5
+M18795,M,Europe,"Overstrain Failure",187,182,192,5,5
+M19580,M,Europe,"Heat Dissipation Failure",192,187,194,5,2
+M16184,M,Europe,"Power Failure",194,192,198,2,4
+M16856,M,Europe,"Tool Wear Failure",198,194,200,4,2
+M19492,M,Europe,"Heat Dissipation Failure",200,198,202,2,2
+M22451,M,Europe,"Overstrain Failure",202,200,203,2,1
+M17104,M,Europe,"Tool Wear Failure",203,202,203,1,0
+M17801,M,Europe,"Tool Wear Failure",203,203,204,0,1
+M23706,M,Europe,"Tool Wear Failure",204,203,205,1,1
+M19152,M,Europe,"Power Failure",205,204,207,1,2
+M23786,M,Europe,"Power Failure",207,205,207,2,0
+M23874,M,Europe,"Overstrain Failure",207,207,207,0,0
+M18884,M,Europe,"Overstrain Failure",207,207,209,0,2
+M22971,M,Europe,"Tool Wear Failure",209,207,210,2,1
+M19587,M,Europe,"Heat Dissipation Failure",210,209,210,1,0
+M18980,M,Europe,"Heat Dissipation Failure",210,210,213,0,3
+M18981,M,Europe,"Heat Dissipation Failure",213,210,215,3,2
+M20169,M,Europe,"Tool Wear Failure",215,213,216,2,1
+M22286,M,Europe,"Tool Wear Failure",216,215,218,1,2
+M19067,M,Europe,"Tool Wear Failure",218,216,221,2,3
+M17531,M,Europe,"Tool Wear Failure",221,218,222,3,1
+M22709,M,Europe,"Tool Wear Failure",222,221,225,1,3
+M17026,M,Europe,"Tool Wear Failure",225,222,232,3,7
+M22547,M,Europe,"Tool Wear Failure",232,225,234,7,2
+M20254,M,Europe,"Power Failure",234,232,234,2,0
+M20859,M,Europe,"Tool Wear Failure",234,234,253,0,19
+M20261,M,Europe,"Tool Wear Failure",253,234,NULL,19,NULL
